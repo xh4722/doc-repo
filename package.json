@@ -1,0 +1,31 @@
+{
+  "name": "doc",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "start": "node ./scripts/start.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.4",
+    "@docusaurus/core": "^2.0.0-beta.0",
+    "@docusaurus/preset-classic": "^2.0.0-beta.0",
+    "classnames": "^2.2.6",
+    "fs-extra": "^9.0.0",
+    "klaw": "^3.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

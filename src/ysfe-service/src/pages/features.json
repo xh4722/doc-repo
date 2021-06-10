@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Easy to Use",
+    "imageUrl": "img/undraw_docusaurus_mountain.svg",
+    "description": "Ysfe-service was designed from the ground up to be easily installed and used to get your website developing and building quickly."
+  },
+  {
+    "title": "Focus on What Matters",
+    "imageUrl": "img/undraw_docusaurus_tree.svg",
+    "description": "Ysfe-service lets you focus on your business, and we&apos;ll do the chores."
+  },
+  {
+    "title": "Powered by Webpack",
+    "imageUrl": "img/undraw_docusaurus_react.svg",
+    "description": "Extend or customize your bundler by reusing Webpack. Ysfe-service can be extended while reusing the same dev and prod config."
+  }
+]
