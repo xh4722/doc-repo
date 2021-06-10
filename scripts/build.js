@@ -7,7 +7,7 @@ function build() {
       cwd: path.resolve(__dirname, `../src/${process.env.PROJECT}`),
     });
   } catch (err) {
-    console.error(err);
+    console.error(err.output);
   }
 }
 
