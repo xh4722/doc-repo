@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Easy to Use",
+    "imageUrl": "img/undraw_docusaurus_mountain.svg",
+    "description": "kaiwu-handbook was designed from the ground up to be easily installed and used to get your website developing and building quickly."
+  },
+  {
+    "title": "Focus on What Matters",
+    "imageUrl": "img/undraw_docusaurus_tree.svg",
+    "description": "kaiwu-handbook lets you focus on your business, and we&apos;ll do the chores."
+  },
+  {
+    "title": "More",
+    "imageUrl": "img/undraw_docusaurus_react.svg",
+    "description": "kaiwu-handbook has more features..."
+  }
+]
