@@ -8,7 +8,9 @@ function build() {
     });
   } catch (err) {
     const errors =
-      err.output.map((item) => (item ? item.toString("utf-8") : item)) || [];
+      (err.output || []).map((item) =>
+        item ? item.toString("utf-8") : item
+      ) || [];
     console.error(errors.join(""));
   }
 }
