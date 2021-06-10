@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Guides: ['home'],
+    Guides: ['发布历史'],
   },
 }
