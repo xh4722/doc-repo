@@ -1,9 +1,12 @@
 module.exports = {
     siderbar: [
         "home",
+
         {
-            用户手册: [
-                "terms",
+            type: 'category',
+            label: '用户手册',
+            collapsed: false,
+            items: ["terms",
                 "mainFileMap",
                 "newJob",
                 "jobManagement",
