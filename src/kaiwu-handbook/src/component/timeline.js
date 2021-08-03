@@ -4,6 +4,18 @@ import { Chrono } from "react-chrono";
 export const Timeline = () => {
     const items = [
         {
+            title: "2021-08-03",
+            cardTitle: "V3.11.0",
+            cardSubtitle:"作业详情交互优化",
+            cardDetailedText: [
+                "1. 功能优化，包括作业基本信息、作业监控、结果文件管理",
+                "2. 作业进度，实时查看作业运行情况及进度",                 
+                "3. 残差图，支持查看残差图的软件，通过残差图提前预测作业运行情况",
+                "4. 结果查看，在线查看作业结果日志",
+                "5. 结果下载，支持下载作业结果到本地；支持拖动作业结果到文件管理"
+            ],
+        },
+        {
             title: "2021-07-21",
             cardTitle: "V3.10.0",
             cardSubtitle:"新建作业交互优化",
