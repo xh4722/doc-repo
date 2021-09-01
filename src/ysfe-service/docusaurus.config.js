@@ -26,16 +26,6 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Doc",
-          items: [
-            {
-              to: "docs/home",
-              activeBasePath: "docs",
-              label: "文档",
-            },
-          ],
-        },
-        {
           title: "Repo",
           items: [
             {
