@@ -7,15 +7,15 @@
     "start": "node ./scripts/start.js"
   },
   "dependencies": {
-    "@babel/core": "^7.10.4",
-    "@docusaurus/core": "^2.0.0-beta.0",
-    "@docusaurus/preset-classic": "^2.0.0-beta.0",
-    "classnames": "^2.2.6",
-    "fs-extra": "^9.0.0",
-    "klaw": "^3.0.0",
-    "react": "^16.8.4",
-    "react-chrono": "^1.10.0",
-    "react-dom": "^16.8.4"
+    "@babel/core": "7.10.4",
+    "@docusaurus/core": "2.0.0-beta.0",
+    "@docusaurus/preset-classic": "2.0.0-beta.0",
+    "classnames": "2.2.6",
+    "fs-extra": "9.0.0",
+    "klaw": "3.0.0",
+    "react": "16.8.4",
+    "react-chrono": "1.10.0",
+    "react-dom": "16.8.4"
   },
   "browserslist": {
     "production": [
